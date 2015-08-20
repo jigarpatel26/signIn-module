@@ -1,7 +1,7 @@
 # sign In Module
 Technologies :
-- Nod.js
-- Angular.js
+- Node.js
+- AngularJS
 - Passport-local
 - bootstrap
 - express
