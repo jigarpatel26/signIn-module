@@ -1,0 +1,17 @@
+{
+  "name": "angular-sample",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A starter project for AngularJS",
+  "license": "MIT",
+  "dependencies" : {
+    "express"    : "~4.7.2",
+    "passport": "~0.2.0",
+    "passport-local": "~1.0.0",
+    "mongoose"   : "~4.0.6",
+    "morgan"     : "~1.2.2",
+    "body-parser": "~1.5.2",
+    "method-override": "~2.1.2",
+    "cookie-parser": "~1.0.1"
+  }
+}
